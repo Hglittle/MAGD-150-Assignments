@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# MAGD-150-Assignments
 
-You can use the [editor on GitHub](https://github.com/Hglittle/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This is a repositroy for MAGD 150
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab 10
+Link to my lab 10: 
+[3D Models](https://github.com/Hglittle/MAGD-150-Assignments/blob/master/f19magd150lab10_Little/f19magd150lab10_Little/f19magd150lab10_Little.js)
 
-### Markdown
+## Lab 9
+Link to my lab 9: 
+[Image/Sound](https://github.com/Hglittle/MAGD-150-Assignments/blob/master/f19magd150lab9_Little/f19magd150lab9_Little/f19magd150lab09_Little.js)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lab 7
+Link to my lab 7: 
+[Objects](https://github.com/Hglittle/MAGD-150-Assignments/blob/master/f19magd150lab07_Little%20(1)/f19magd150lab07_Little/f19magd150lab07_Little.js)
 
-```markdown
-Syntax highlighted code block
+## Lab 6
+Link to my lab 6:
+[Organization](https://github.com/Hglittle/MAGD-150-Assignments/blob/master/f19magd150lab06_Little/f19magd150lab06_Little/f19magd150lab06_Little.js)
 
-# Header 1
-## Header 2
-### Header 3
+## Lab 5
+Link to my lab 5:
+[Interesctions](https://github.com/Hglittle/MAGD-150-Assignments/blob/master/f19magd150lab05_Little/f19magd150lab05_Little/f19magd150lab05_Little.js)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hglittle/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
